@@ -44,6 +44,7 @@
       </tr>
       <%}%>
     </table>
+	<p>Para alterar ou excluir, basta entrar com o número de matricular que deseja Alterar/Excluir e apertar no botão</p>
   </body>
 
 </html>
